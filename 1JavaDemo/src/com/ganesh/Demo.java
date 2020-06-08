@@ -8,6 +8,11 @@ public class Demo {
 		System.out.println("ganesh baaaaaaaaavaaaaa");
 		System.out.println("mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm");
 		
+		
+		
+		System.out.println("ammmaaaaaaaaaaaa");
+		
+		System.out.println("llllllllllllllllllllllllllllllllllllllll");
 	}
 	
 }
